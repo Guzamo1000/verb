@@ -1,0 +1,221 @@
+{'verb_body': [
+        {'verbformen': 'Indikativ', 'body': [
+                {'tense': 'Präsens', 'conjugation': [
+                        {'verb': 'aale', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aalst', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aalt', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aalt', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Präteritum', 'conjugation': [
+                        {'verb': 'aalte', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aaltest', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aalte', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalten', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aaltet', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalten', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Präteritum', 'conjugation': [
+                        {'verb': 'aalen', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Perfekt', 'conjugation': [
+                        {'verb': 'geaalt', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Plusquamperfekt', 'conjugation': [
+                        {'verb': 'geaalt', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Plusquamperfekt', 'conjugation': [
+                        {'verb': 'geaalt ', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                }
+            ]
+        },
+        {'verbformen': 'Konjunktiv I', 'body': [
+                {'tense': 'Präsens', 'conjugation': [
+                        {'verb': 'aale', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aalest', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aale', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aalet', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Futur I', 'conjugation': [
+                        {'verb': 'aalen', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Futur I', 'conjugation': [
+                        {'verb': 'geaalt', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'geaalt', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                }
+            ]
+        },
+        {'verbformen': 'Konjunktiv II', 'body': [
+                {'tense': 'Futur II', 'conjugation': [
+                        {'verb': 'geaalt ', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'geaalt ', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Präteritum', 'conjugation': [
+                        {'verb': 'aalte', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aaltest', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aalte', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalten', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aaltet', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalten', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                },
+                {'tense': 'Präteritum', 'conjugation': [
+                        {'verb': 'aalen', 'personalpronomen': 'ich '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'du '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'er/sie/es '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'wir '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'ihr '
+                        },
+                        {'verb': 'aalen', 'personalpronomen': 'Sie '
+                        }
+                    ]
+                }
+            ]
+        },
+        {'verbformen': 'Imperativ Präsens', 'body': [
+                {'verb': 'aale ', 'personalpronomen': '(du)'
+                },
+                {'verb': 'aalen ', 'personalpronomen': 'wir'
+                },
+                {'verb': 'aalt ', 'personalpronomen': 'ihr'
+                },
+                {'verb': 'aalen ', 'personalpronomen': 'Sie'
+                },
+                {'verb': 'aalen ', 'personalpronomen': 'Sie'
+                }
+            ]
+        },
+        {'verbformen': 'Infinitiv', 'body': {'tense': 'Präsens', 'verb': 'aalen'
+            }
+        },
+        {'verbformen': 'Partizip', 'body': [
+                {'tense': 'Perfekt', 'verb': 'geaalt'
+                },
+                {'tense': 'Perfekt', 'verb': 'geaalt'
+                },
+                {'tense': 'Perfekt', 'verb': 'geaalt'
+                },
+                {'tense': 'Perfekt', 'verb': 'zu aalen'
+                },
+                {'tense': 'zu + Infinitiv', 'verb': 'zu aalen'
+                }
+            ]
+        }
+    ], 'status': True
+}
